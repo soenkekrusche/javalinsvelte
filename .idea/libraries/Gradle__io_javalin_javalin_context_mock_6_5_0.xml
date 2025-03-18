@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.javalin:javalin-context-mock:6.5.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.javalin" artifactId="javalin-context-mock" version="6.5.0" baseVersion="6.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.javalin/javalin-context-mock/6.5.0/578712091336c1a297c9e85f8ea47e5c274c3173/javalin-context-mock-6.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

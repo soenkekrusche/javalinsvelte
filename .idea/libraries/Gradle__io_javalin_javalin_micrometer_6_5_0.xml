@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.javalin:javalin-micrometer:6.5.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.javalin" artifactId="javalin-micrometer" version="6.5.0" baseVersion="6.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.javalin/javalin-micrometer/6.5.0/c89db1fefa474eb74552cb903c8b2f8f4a765a70/javalin-micrometer-6.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
